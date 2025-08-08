@@ -80,5 +80,5 @@ npm start
 
 If you have any questions or want a more customized app for specific use cases, don't hesitate to get in touch with me to the contacts below.
 
-- E-Mail: adamglab0731.pl@gmail.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- E-Mail: erichardin.x@gmail.com
+- Telegram: [@x_dravon](https://t.me/x_dravon)
